@@ -11,7 +11,7 @@ export function Home() {
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
           <ImageWithFallback
-            src="https://images.unsplash.com/photo-1758796629979-c967b99dec5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyZXNpZGVudGlhbCUyMG5laWdoYm9yaG9vZCUyMGhvdXNlcyUyMHN0cmVldHxlbnwxfHx8fDE3NzEwMDA1MTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+            src="/background.jpg"
             alt="حي سكني"
             className="w-full h-full object-cover"
           />
